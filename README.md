@@ -1,2 +1,6 @@
 # AIChannel
-youtube channel about economics created manily with ai tools 
+YouTube channel about economics created mainly with AI tools 
+
+
+- using GPT3 as the text/script generator
+- using murf for the voice-over 

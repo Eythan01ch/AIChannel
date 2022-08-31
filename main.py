@@ -1,2 +1,6 @@
-if __name__ == '__main__':
-	print('hi')
+
+from managers.requests_manager import RequestsManager
+
+
+RequestsManager()
+
